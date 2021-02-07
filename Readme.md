@@ -1,5 +1,5 @@
 
-![Quantello](https://github.com/RutvikJ77/Quantello/assets/quantello.png)
+![Quantello](https://github.com/RutvikJ77/Quantello/blob/master/assets/quantello.png)
 
 ## Inspiration
 What can be the most impractical thing I can come up with? My programmer brain kicked in and answered writing inefficient scripts which totally defeats the purpose of programming. Having extremely sophisticated machines like Quantum computers perform extremely menial task like **pattern matching** using random number generation served that purpose of inefficiency. 
@@ -15,3 +15,4 @@ Final completion of the script working and generating random numbers using Quant
 How quantum computations and circuit building works and how can it help to solve much greater issues in science.
 ## What's next for Quantello
 Much more goofiness?🤡
+#### Check out the video [here](https://youtu.be/U898oH_IZyU)
